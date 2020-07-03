@@ -21,8 +21,10 @@ namespace Game
                 Console.WriteLine("1.Game");
                 Console.WriteLine("2.Instruction");
                 Console.WriteLine("3.Exit");
+                Console.WriteLine(" ");
 
                 choice = Console.ReadLine();
+
 
                 switch (choice)
                 {
